@@ -2,16 +2,18 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Rachel Le
+- **CCID:** rle1
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+W3Schools Java Tutorial, 
+GeeksforGeeks Java Topics
+
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Lisa         | lmdsouza  |
+| Alvin        | acgoh     |
